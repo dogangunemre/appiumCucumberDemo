@@ -1,5 +1,3 @@
-# appiumCucumberDemo
-
 ## Scenario 1
 
 **Requirement:**
